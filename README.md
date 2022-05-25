@@ -1,2 +1,3 @@
 # golang-cheatsheet
-Notes about golang for quick access use
+
+Notes about golang for quick access use!
