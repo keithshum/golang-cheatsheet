@@ -1,6 +1,6 @@
 # Control Flow <a name="controlflow"></a>
 
-TOC   
+Table of Contents  
 
 1. [If Else](#ifelse)  
 2. [For Loop](#forloop)  
