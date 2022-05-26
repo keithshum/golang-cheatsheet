@@ -1,13 +1,20 @@
-# Array and Slice
+# Array and Slice  <a name="arrayandslice"></a>
 
-## Array
+Table of Contents  
+
+1. [Array](#Array)
+2. [Slice](#Slice)
+3. [Examples](#Examples)
+
+## Array <a name="Array"></a>  
 
 Array is static.  
 Array is messy.  
 Use slice instead.  
 
+[Back to top](#arrayandslice)  
 
-## Slice
+## Slice <a name="Slice"></a>
 
 Slice is a window of an array.   
 
@@ -18,9 +25,9 @@ Slice is a struct contains 3 things:
 - Length
 - Capacity
 
+[Back to top](#arrayandslice)  
 
-
-## Examples
+## Examples <a name="Examples"></a>
 
 Passing Slice to Function
 
@@ -43,3 +50,5 @@ func main() {
 }
 
 ```
+
+[Back to top](#arrayandslice)  

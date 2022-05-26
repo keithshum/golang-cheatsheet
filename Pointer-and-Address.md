@@ -1,13 +1,22 @@
-# Pointer * and Address &
+# Pointer * and Address &  <a name="pointandaddress"></a>
 
-## Ampersand
+Table of Contents  
+
+1. [Ampersand](#Ampersand)  
+2. [Asterisk](#Asterisk)  
+3. [Examples](#Examples)  
+
+## Ampersand  <a name="Ampersand"></a>
 
 Keyboard key = &  
 
 Only 1 meaning in golang:  
 - memory address location of a variable  
 
-## Asterisk
+[Back to top](#pointandaddress)  
+
+
+## Asterisk  <a name="Asterisk"></a>
 
 Keyboard key = *  
 
@@ -15,7 +24,9 @@ Keyboard key = *
 - Noun: Pointer variable declaration for storing memory address/container location
 - Verb: Dereferencing operator which represents the content value of the pointer variable
 
-## Examples
+[Back to top](#pointandaddress)  
+
+## Examples  <a name="Examples"></a>
 
 Variable Declaration and Dereferencing
 
@@ -48,3 +59,5 @@ func main() {
 }
 
 ```
+
+[Back to top](#pointandaddress)  
