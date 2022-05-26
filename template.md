@@ -2,30 +2,11 @@
 
 Table of Contents  
 
-1. [Topic 1](#topic1)  
-2. [Topic 2](#topic2)  
-3. [Topic 3](#topic3)  
+1. [topic1](#topic1)  
+2. [topic2](#topic2)  
+3. [topic3](#topic3)  
 
-## Topic 1 <a name="topic1"></a>
-
-[summaries]
-
-Syntax
-
-```
-
-```
-
-Example
-
-```
-
-```
-
-[Back to top](#template)  
-
-
-## Topic2 <a name="topic2"></a>
+## topic1 <a name="topic1"></a>
 
 [summaries]
 
@@ -43,7 +24,26 @@ Example
 
 [Back to top](#template)  
 
-## Topic3 <a name="topic3"></a>
+
+## topic2 <a name="topic2"></a>
+
+[summaries]
+
+Syntax
+
+```
+
+```
+
+Example
+
+```
+
+```
+
+[Back to top](#template)  
+
+## topic3 <a name="topic3"></a>
 
 [summaries]
 
