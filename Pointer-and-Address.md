@@ -36,15 +36,15 @@ import (
 
 func addition(y *int) (int, int) {
   z := 0
-  *y = *y + 1                 # Dereferencing as I want the content value to do something
-  return *y, z                # Returning the content values
+  *y = *y + 1                 // Dereferencing as I want the content value to do something
+  return *y, z                // Returning the content values
 }
 
 
 func main() {
   var x int = 10
-  fmt.Println(addition(&x))   # Passing in address of x; then gives output 11 0
-  fmt.Println(x)              # x is incremented as my wish; 11
+  fmt.Println(addition(&x))   // Passing in address of x; then gives output 11 0
+  fmt.Println(x)              // x is incremented as my wish; 11
 }
 
 ```
