@@ -1,9 +1,10 @@
 # Control Flow
 
-TOC
-1. [If Else](#ifelse)
-2. [For Loop](#forloop)
-3. [Switch case](#switchcase)
+TOC   
+
+1. [If Else](#ifelse)  
+2. [For Loop](#forloop)  
+3. [Switch case](#switchcase)  
 
 ## If Else <a name="ifelse"></a>
 
